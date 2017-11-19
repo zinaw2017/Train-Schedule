@@ -1,0 +1,34 @@
+  
+ body{
+  background: url("../../assets/images/tgv_high-speed_train_crossing_fields_in_france.JPEG");
+}
+
+
+* {
+    box-sizing: border-box;
+}
+
+.jumbotron {
+    background-color: blue;
+    color: white;
+  
+}
+
+.panel-default>.panel-heading {
+    background-color: rgba(0,0,150,1.5);
+    color: white;
+}
+
+.btn {
+    background-color: green;
+}
+
+
+
+
+@media screen and (max-width: 780px) {}
+
+
+
+
+@media screen and (max-width: 640px) {}
